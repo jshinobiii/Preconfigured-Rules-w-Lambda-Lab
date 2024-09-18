@@ -3,7 +3,7 @@
 ## Objective
 Create pre-configured protections for cloud environment.
 
-The objective is to set up and configure the preconfigured Web Application Firewall (WAF) Access Control List (ACL), along with the associated rules and conditions provided by AWS. This involves applying the provided security settings to effectively filter and protect web application traffic from potential threats and vulnerabilities. Through this process, you will gain hands-on experience with AWS WAF, including rule management, ACL configuration, and traffic filtering to enhance the security posture of web applications.
+The objective is to set up and configure the preconfigured Web Application Firewall (WAF) Access Control List (ACL), along with the associated rules and conditions provided by AWS. This involves applying the provided security settings to effectively filter and protect web application traffic from potential threats and vulnerabilities. 
 
 ### Skills Learned
 -Web Application Firewall (WAF) Configuration: Understanding how to set up and configure AWS WAF to protect web applications.
