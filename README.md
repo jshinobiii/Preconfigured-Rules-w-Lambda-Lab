@@ -25,7 +25,7 @@ The objective is to set up and configure the preconfigured Web Application Firew
 
 ## Steps
 
-*Ref 1: Network Diagram*
+*Ref 1:*
 ![image](https://github.com/user-attachments/assets/bb4cafbb-587f-459e-b0aa-0ddb20c94f37)
 
 *Ref 2*
